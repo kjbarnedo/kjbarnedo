@@ -19,9 +19,6 @@ I believe consistency builds skill and that every project is a data point in my 
 
 #### 🛠 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=fff)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)  
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-FCC624?logo=googlechrome&logoColor=000)  
 
 ---
 
